@@ -95,3 +95,5 @@ The database layer (`models.py`, `database.py`) demonstrates:
 ## Made by
 
 [Dhruv](https://github.com/1HPdhruv)
+
+<-m pip install pandas fork update -->
